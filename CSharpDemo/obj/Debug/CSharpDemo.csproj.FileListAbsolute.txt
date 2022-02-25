@@ -4,3 +4,9 @@
 /Users/Chuck/Projects/CSharpDemo/CSharpDemo/obj/Debug/CSharpDemo.csproj.CoreCompileInputs.cache
 /Users/Chuck/Projects/CSharpDemo/CSharpDemo/obj/Debug/CSharpDemo.exe
 /Users/Chuck/Projects/CSharpDemo/CSharpDemo/obj/Debug/CSharpDemo.pdb
+/Users/Chuck/Desktop/projects_for_site/CSharpDemo/CSharpDemo/bin/Debug/CSharpDemo.exe
+/Users/Chuck/Desktop/projects_for_site/CSharpDemo/CSharpDemo/bin/Debug/CSharpDemo.pdb
+/Users/Chuck/Desktop/projects_for_site/CSharpDemo/CSharpDemo/obj/Debug/CSharpDemo.csproj.AssemblyReference.cache
+/Users/Chuck/Desktop/projects_for_site/CSharpDemo/CSharpDemo/obj/Debug/CSharpDemo.csproj.CoreCompileInputs.cache
+/Users/Chuck/Desktop/projects_for_site/CSharpDemo/CSharpDemo/obj/Debug/CSharpDemo.exe
+/Users/Chuck/Desktop/projects_for_site/CSharpDemo/CSharpDemo/obj/Debug/CSharpDemo.pdb

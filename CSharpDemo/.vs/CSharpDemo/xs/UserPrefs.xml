@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{F1646D6A-5EA3-4370-899E-6461953C2162}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CSStudent.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
       <File FileName="Program.cs" Line="11" Column="1" />
-      <File FileName="Student.cs" Line="1" Column="1" />
+      <File FileName="Student.cs" />
       <File FileName="CSStudent.cs" Line="1" Column="1" />
     </Files>
     <Pads>
@@ -10,7 +10,7 @@
         <State name="__root__">
           <Node name="CSharpDemo" expanded="True">
             <Node name="CSharpDemo" expanded="True">
-              <Node name="CSStudent.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
